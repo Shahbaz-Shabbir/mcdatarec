@@ -7,4 +7,4 @@ Microsoft Data Recovery [Upload By Shahbaz Shabbir Developed By Microsoft Corpor
 
                                                Shahbaz Shabbir (Computer Software Engineer)
                                                
-                                            Inspired By github.com/ZeroBitCS By Shahbaz Shabbir
+                                            
